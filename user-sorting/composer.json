@@ -1,0 +1,12 @@
+{
+    "name": "alexandr/user-sorting",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\user-sorting\\": "src/",
+            "User\\": "src/",
+            "UserService\\": "src/"
+        }
+    },
+    "require": {}
+}

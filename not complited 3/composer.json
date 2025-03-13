@@ -1,0 +1,12 @@
+{
+    "name": "dmitry/3_pizzeria",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "app\\3Pizzeria\\": "src/",
+            "Pizza\\": "src/",
+            "PizzaStore\\": "src/"
+        }
+    },
+    "require": {}
+}

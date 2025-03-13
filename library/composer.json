@@ -1,0 +1,13 @@
+{
+    "name": "alexandr/library",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\library\\": "src/",
+            "Book\\": "src/",
+            "Library\\": "src/",
+            "User\\": "src/"
+        }
+    },
+    "require": {}
+}
